@@ -1,0 +1,15 @@
+C:\Data Analyst\YzikiDZ2\obj\Debug\net6.0\YzikiDZ2.csproj.AssemblyReference.cache
+C:\Data Analyst\YzikiDZ2\obj\Debug\net6.0\YzikiDZ2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data Analyst\YzikiDZ2\obj\Debug\net6.0\YzikiDZ2.AssemblyInfoInputs.cache
+C:\Data Analyst\YzikiDZ2\obj\Debug\net6.0\YzikiDZ2.AssemblyInfo.cs
+C:\Data Analyst\YzikiDZ2\obj\Debug\net6.0\YzikiDZ2.csproj.CoreCompileInputs.cache
+C:\Data Analyst\YzikiDZ2\bin\Debug\net6.0\YzikiDZ2.exe
+C:\Data Analyst\YzikiDZ2\bin\Debug\net6.0\YzikiDZ2.deps.json
+C:\Data Analyst\YzikiDZ2\bin\Debug\net6.0\YzikiDZ2.runtimeconfig.json
+C:\Data Analyst\YzikiDZ2\bin\Debug\net6.0\YzikiDZ2.dll
+C:\Data Analyst\YzikiDZ2\bin\Debug\net6.0\YzikiDZ2.pdb
+C:\Data Analyst\YzikiDZ2\obj\Debug\net6.0\YzikiDZ2.dll
+C:\Data Analyst\YzikiDZ2\obj\Debug\net6.0\refint\YzikiDZ2.dll
+C:\Data Analyst\YzikiDZ2\obj\Debug\net6.0\YzikiDZ2.pdb
+C:\Data Analyst\YzikiDZ2\obj\Debug\net6.0\YzikiDZ2.genruntimeconfig.cache
+C:\Data Analyst\YzikiDZ2\obj\Debug\net6.0\ref\YzikiDZ2.dll
